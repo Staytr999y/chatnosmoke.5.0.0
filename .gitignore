@@ -1,1 +1,13 @@
 node_modules/
+git remote add origin https://github.com/Staytr999y/chatnosmoke.5.0.git
+git push -u origin master
+192.168.0.21
+
+git init .
+
+git remote add origin username@192.168.0.21: /c/Users/stayt/OneDrive/Desktop/Helpyourselfbbetter/chatnosmoke.5.0.git
+
+git add .
+git commit -m "Initial comment"
+
+
